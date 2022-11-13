@@ -1,0 +1,8 @@
+.lista-notas{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    max-width: 1000px;
+    flex: 1;
+    flex-wrap: wrap;
+}

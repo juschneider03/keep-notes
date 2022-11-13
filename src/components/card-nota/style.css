@@ -1,0 +1,19 @@
+.card-nota{
+    background-color: rgb(225, 182, 222);
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+    padding: 5px;
+    width: 200px;
+    height: 200px;
+    overflow: auto;
+    border-radius: 8px;
+    box-shadow: 1px 1px 0.4em #9e9e9e;
+}
+
+.card-nota:hover{
+    cursor: pointer;
+    box-shadow: 1px 1px 0.4em rgb(225, 182, 222);
+    transition: 0.2s;
+}
