@@ -15,3 +15,8 @@ Para instalar as dependencias do projeto.
 ### `npm start`
 
 Executa a aplicação em develop, rodando na porta 3000
+
+
+## Aplicação:
+
+![alt text](https://github.com/juschneider03/keep-notes/blob/main/keep-notes.png)
